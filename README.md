@@ -1,4 +1,4 @@
 # Nvidia_hack
 
-Here you can find Telegram bot and some data investigation. @AnVideabot - our Telegram bot.
+Here you can find Telegram bot and some data investigation. @AnVideabot - our Telegram bot. (https://t.me/AnVideabot)
 
